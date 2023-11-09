@@ -13,7 +13,7 @@ The data used in this analysis can be found at [Cyclistic Data Source](https://d
 ## Key Features - Analysis Step
 
 - **Data Cleaning:** Cleaned and preprocessed the raw data, handling missing values and outliers.
-- **Exploratory Data Analysis:**
+- **Exploratory Data Analysis:** Explored and visualized the data to uncover trends, patterns, and insights.
 - **Descriptive Analysis:** Extracted statistical insights on ride durations and user behaviors.
 - **Data Visualization:** Created informative visualizations to present key findings.
 - **Business Recommendations:** Provided actionable recommendations to boost annual membership sales.
@@ -23,6 +23,12 @@ The data used in this analysis can be found at [Cyclistic Data Source](https://d
 1. **Data Analysis:** Access the R scripts in the [Scripts](Scripts/) directory to review the code used for data cleaning, analysis, and visualization.
 
 2. **Report:** Check the [Reports](Reports/) directory for a detailed analysis report and insights derived from the project.
+
+## Key Findings
+
+- Casual riders tend to have longer average ride lengths compared to members.
+- Weekend rides are longer in duration than rides on weekdays.
+- Cyclistic can consider targeting casual riders for potential membership conversion.
 
 ## Recommendations
 
