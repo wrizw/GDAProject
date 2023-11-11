@@ -4,7 +4,7 @@ Welcome to my Cyclistic Data Analysis Portfolio! This repository showcases my da
 
 ## About the Project
 
-Cyclistic is a bike-sharing program in Chicago. In this project, I conducted a comprehensive data analysis to answer key business questions, such as understanding user behavior and offering recommendations to increase annual membership conversions.
+This analysis is based on the Divvy case study "'Sophisticated, Clear, and Polished’: Divvy and Data Visualization" written by Kevin Hartman (found here: https://artscience.blog/home/divvy-dataviz-case-study). Cyclistic is a bike-sharing program in Chicago. In this project, I conducted a comprehensive data analysis to answer key business questions, such as understanding user behavior and offering recommendations to increase annual membership conversions.
 
 ## Data Source and Period
 
